@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.student-owner{
+    width: 300px;
+    background-color: gray;
+    border: thick Solid black;
+    border-radius: 5px;
+}
+
+.student-contributor{
+    width: 300px;
+    background-color: lightgreen;
+    border: thick Solid black;
+    
+}
